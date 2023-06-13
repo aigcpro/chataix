@@ -3,9 +3,10 @@
 
 汇聚：智能问答，AI绘图，思维导图，白板，各种智能小应用一体化的AI系统
 
-[演示 Demo](https://www.chataix.top/) / [QQ群](https://www.chataix.top/) 
+[演示 Demo](https://www.chataix.top/) / [QQ群](https://github.com/Apple-ljj/chataix/assets/21351751/fd098516-6692-4a1f-8f02-d3a307f28541)
 
 </div>
+
 
 ## 主要功能
 
