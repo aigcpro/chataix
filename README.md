@@ -3,7 +3,7 @@
 
 汇聚：智能问答，AI绘图，思维导图，白板，各种智能小应用一体化的AI系统
 
-[演示 Demo](https://www.chataix.top/) / [QQ 群] (https://qm.qq.com/cgi-bin/qm/qr?k=E_3LC3S6hW_ZjtnuYjAqULiKd_bXlO4q/) 
+[演示 Demo](https://www.chataix.top/) / [QQ群](https://www.chataix.top/) 
 
 </div>
 
