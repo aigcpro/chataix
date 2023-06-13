@@ -6,7 +6,8 @@
 [演示 Demo](https://www.chataix.top/) / [QQ群](https://github.com/Apple-ljj/chataix/assets/21351751/fd098516-6692-4a1f-8f02-d3a307f28541)
 
 </div>
-### 部分界面
+
+## 部分界面
 ![FXSBIO98JVYEP8WUC7SSMBJ](https://github.com/Apple-ljj/chataix/assets/21351751/0e1bf2ad-6ce5-4c80-89f4-3597f3f6daf8)
 ![3NJ7HUBSNXEMT1H8V@$20 E](https://github.com/Apple-ljj/chataix/assets/21351751/f341882b-cddd-4f42-897f-ebbfc8f679ca)
 ![IW101H78A6`Y_16L46 `XB1](https://github.com/Apple-ljj/chataix/assets/21351751/4adf9f5c-6f8f-455f-98c7-f94a3a6ccbe8)
