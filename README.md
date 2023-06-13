@@ -1,9 +1,10 @@
-<div>
+<div align="center">
 
 <h1 align="center">Chataix</h1>
   <p>chataix智能问答系统，汇聚：智能问答，AI绘图，思维导图，白板，各种智能小应用一体化的AI系统</p>
 
 [演示](https://www.chataix.top/) / [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=E_3LC3S6hW_ZjtnuYjAqULiKd_bXlO4q)
+ </div>
 <h2>部分页面演示：</h2>
 ![cover](https://github.com/ChatGPTmax/chataix/assets/128979612/9a7adf00-438e-4ae9-9213-8676709f7ccb)
 ![cover](https://github.com/ChatGPTmax/chataix/assets/128979612/e7113e79-6230-472d-808e-6d2989ab5dd0)
